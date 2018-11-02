@@ -1,0 +1,116 @@
+
+.movieList {
+    width: 100%;
+}
+/*.movieList .imageList .title {
+    display: none;
+}*/
+.movieList .imageList .content{
+    display: flex;
+    justify-content: space-between;
+    align-content: space-evenly;
+    overflow: hidden;
+}
+/*.movieList .imageList .content .movieImage {
+    width: calc( 16.6% - 10px );
+    height: auto;
+}
+.movieList .imageList,.movieList .imageList .content .movieImage>img{
+    width: 100%;
+}
+.movieList .imageList .content .movieImage .img{
+    height: 260px;
+}
+.movieList{
+    position: relative;
+    margin-bottom: 30px;
+}
+.movieList .introduce {
+    width: 100%;
+    height: 100px;
+}
+.movieList .movieIntro {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 40px;
+} 
+*/  
+
+
+.video_l .player .video-information{
+    display: none;
+}
+.video_l .player .video-player>div{
+    height: 576px;
+}
+
+/*.movieList .title{
+    float: left;
+}*/
+
+/*.movieList .list{
+    float: left;
+    padding: 10px;
+}
+.seniorityRelevantCon{
+    width: 90%;
+} 
+.seniorityRelMovieImage{
+    width: 17%;
+}*/
+
+/*  width: 17%;90%*/ 
+
+/*.movieList .seniority{
+    position: relative;
+    top: 0;
+    right: 0; 
+    margin-top: 20px;
+}*/
+
+.movieList .seniority .list .movie .name,.movieName{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+    width: 70%;
+}
+.movieList .keywordList .list span{
+    border: 1px solid #999;
+    height: 20px;
+    border-radius: 14px;
+    padding: 0px 10px;
+    color: #999;
+    margin: 0px 15px;
+}
+.movieList .imageList .title span:last-child{
+    border: none;
+    color: black
+}
+.moreType,.movieList .seniority .grade{
+    font-size: 12px;
+}
+.KeyListView{
+   /*display: flex; */
+   display: table;
+   width: 100%;
+   padding: 10px 0px;
+}
+.KeyListView .title{
+    margin-top: 20px;
+}
+.KeyListView .title b{
+    font-size: 14px;
+}
+.KeyListView .title span{
+    font-size: 12px;
+}
+.Advertisement{
+    width: 100%;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url(../images/advertisement.jpg);
+}

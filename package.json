@@ -1,0 +1,82 @@
+{
+  "name": "real-video-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "bd": "vue-cli-service build && scp -P 5022 -r dist/. root@bin-go.me:/app/real-video-web"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.4",
+    "@fortawesome/pro-light-svg-icons": "^5.3.1",
+    "@fortawesome/pro-solid-svg-icons": "^5.3.1",
+    "@fortawesome/vue-fontawesome": "^0.1.0",
+    "axios": "^0.18.0",
+    "element-ui": "^2.4.7",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "qrcode": "^1.3.0",
+    "qrcodejs2": "0.0.2",
+    "register-service-worker": "^1.0.0",
+    "store2": "^2.7.0",
+    "ua-parser-js": "^0.7.18",
+    "video.js": "^6.12.0",
+    "videojs-contrib-hls": "^5.14.1",
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1",
+    "vue-video-player": "^5.0.2",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.3",
+    "@vue/cli-plugin-eslint": "^3.0.3",
+    "@vue/cli-plugin-pwa": "^3.0.3",
+    "@vue/cli-service": "^3.0.3",
+    "@vue/eslint-config-standard": "^3.0.3",
+    "eslint": "^5.6.0",
+    "eslint-config-standard": "^11.0.0",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "vue-template-compiler": "^2.5.17"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "@vue/standard"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "eslintIgnore": [
+    "*.vue",
+    "*.js"
+  ],
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "description": "```\r npm install\r ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "http://git.bin-go.cc/realnetworks/real-video-web.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

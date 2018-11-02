@@ -1,0 +1,108 @@
+        <div class="main-footer">
+            <div class="footer">
+                <div class="el-row" style="margin-left: -30px; margin-right: -30px;">
+                    <div class="el-col el-col-6" style="padding-left: 30px; padding-right: 30px;">
+                        <div class="grid-content bg-purple">
+                            <div class="footer-title">合作伙伴</div>
+                            <div class="el-row" style="margin-left: -5px; margin-right: -5px;">
+                                <div class="el-col el-col-8" style="padding-left: 5px; padding-right: 5px;">
+                                    <div class="grid-content footer-text">
+                                        <div><a href="#">党建网</a></div>
+                                        <div><a href="#">百度视频</a></div>
+                                        <div><a href="#">360影视</a></div>
+                                        <div><a href="#">乐视TV</a></div>
+                                    </div>
+                                </div>
+                                <div class="el-col el-col-8" style="padding-left: 5px; padding-right: 5px;">
+                                    <div class="grid-content footer-text">
+                                        <div><a href="#">党建网</a></div>
+                                        <div><a href="#">百度视频</a></div>
+                                        <div><a href="#">360影视</a></div>
+                                        <div><a href="#">乐视TV</a></div>
+                                    </div>
+                                </div>
+                                <div class="el-col el-col-8" style="padding-left: 5px; padding-right: 5px;">
+                                    <div class="grid-content footer-text">
+                                        <div><a href="#">党建网</a></div>
+                                        <div><a href="#">百度视频</a></div>
+                                        <div><a href="#">360影视</a></div>
+                                        <div><a href="#">乐视TV</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="el-col el-col-6" style="padding-left: 30px; padding-right: 30px;">
+                        <div class="grid-content bg-purple">
+                            <div class="footer-title">热门频道</div>
+                            <div class="el-row" style="margin-left: -5px; margin-right: -5px;">
+                                <div class="el-col el-col-8" style="padding-left: 5px; padding-right: 5px;">
+                                    <div class="grid-content footer-text">
+                                        <div><a href="#">剧集</a></div>
+                                        <div><a href="#">体育</a></div>
+                                        <div><a href="#">电影</a></div>
+                                        <div><a href="#">综艺</a></div>
+                                    </div>
+                                </div>
+                                <div class="el-col el-col-8" style="padding-left: 5px; padding-right: 5px;">
+                                    <div class="grid-content footer-text">
+                                        <div><a href="#">剧集</a></div>
+                                        <div><a href="#">体育</a></div>
+                                        <div><a href="#">电影</a></div>
+                                        <div><a href="#">综艺</a></div>
+                                    </div>
+                                </div>
+                                <div class="el-col el-col-8" style="padding-left: 5px; padding-right: 5px;">
+                                    <div class="grid-content footer-text">
+                                        <div><a href="#">剧集</a></div>
+                                        <div><a href="#">体育</a></div>
+                                        <div><a href="#">电影</a></div>
+                                        <div><a href="#">综艺</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="el-col el-col-6" style="padding-left: 30px; padding-right: 30px;">
+                        <div class="grid-content bg-purple">
+                            <div class="footer-title">关于我们</div>
+                            <div class="el-row" style="margin-left: -5px; margin-right: -5px;">
+                                <div class="el-col el-col-12" style="padding-left: 5px; padding-right: 5px;">
+                                    <div class="grid-content footer-text">
+                                        <div><a href="#">加入我们</a></div>
+                                        <div><a href="#">联系我们</a></div>
+                                        <div><a href="#">客服中心</a></div>
+                                        <div><a href="#">意见反馈</a></div>
+                                    </div>
+                                </div>
+                                <div class="el-col el-col-12" style="padding-left: 5px; padding-right: 5px;">
+                                    <div class="grid-content footer-text">
+                                        <div><a href="#">加入我们</a></div>
+                                        <div><a href="#">联系我们</a></div>
+                                        <div><a href="#">客服中心</a></div>
+                                        <div><a href="#">意见反馈</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="el-col el-col-6" style="padding-left: 30px; padding-right: 30px;">
+                        <div class="grid-content bg-purple">
+                            <div class="footer-title">商家赞助</div>
+                            <div class="el-row" style="margin-left: -5px; margin-right: -5px;">
+                                <div class="el-col el-col-24" style="padding-left: 5px; padding-right: 5px;">
+                                    <div class="grid-content footer-text">
+                                        <div><a href="#">北京华中网络传播有限公司</a></div>
+                                        <div><a href="#">北京华中网络传播有限公司</a></div>
+                                        <div><a href="#">北京华中网络传播有限公司</a></div>
+                                        <div><a href="#">北京华中网络传播有限公司</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="copyright">版权所有：瑞网娱乐 京公网安备11020502025578 京ICP 060338号京网文【2016】1136-141信息网传播视听节目许可证</div>
+            </div>
+        </div>
+    </div>

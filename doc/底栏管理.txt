@@ -1,0 +1,3 @@
+http://realadmin.bin-go.me/footers
+目前帐号密码 admin/admin
+编辑 网站管理-FOOTER管理

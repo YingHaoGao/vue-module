@@ -1,0 +1,38 @@
+/**
+* 重写elmentui组件的样式
+*/
+
+/* 弹框 */
+.toast .el-dialog {
+    width: 480px;
+
+    border-radius: 8px;
+}
+.toast .el-dialog__header {
+    width: 100%;
+
+    box-sizing: border-box;
+}
+.toast .el-dialog__footer {
+    padding: 0;
+}
+.toast .el-dialog__body {
+    padding: 0;
+}
+
+.code .el-input__inner, .code .el-input {
+    width: 160px;
+}
+
+/* 复选框 */
+.layer .el-checkbox {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.layer .el-checkbox__label {
+    display: none;
+}
+.layer .el-checkbox__inner {
+    border-radius: 50%;
+}
